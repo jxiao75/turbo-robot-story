@@ -1,3 +1,5 @@
 Once upon a time there was a little cat named git. Git lived in a big house
 on the moon and ate fat mice engorged on that delicious moon cheese. 
- 
+The moon belonged to the nearby inhabited planet named Dearth, a planet said to be teaming with mice
+that were the fattest of them all due to the scrumptious, thick cuts of cheese that naturally formed on Dearth.
+Git decided his time on the moon had come to an end and decided to travel to Dearth in search of the fabled mice.
